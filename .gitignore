@@ -1,0 +1,14 @@
+# Java
+*.class
+*.jar
+*.war
+target/
+bin/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
